@@ -1,0 +1,18 @@
+
+@import "variables";
+@import "node_modules/bulma/bulma";
+$micolor:blue;
+
+body{
+    background-color: $micolor;
+    font-family: $fuente;
+}
+
+h1{
+    color:$letra;
+    border: $borde;
+}
+
+p{
+    color: $letra;
+}
